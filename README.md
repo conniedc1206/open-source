@@ -31,7 +31,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 
 ## Issues
 A selected list of issues I'm proud of.  
-- [contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source/issues/1) - Learn the GitHub workflow by contributing code in a fun simulation project
+- [contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source/pull/1631) - Learn the GitHub workflow by contributing code in a fun simulation project
 
 
 ---
